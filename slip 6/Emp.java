@@ -10,7 +10,7 @@ class Emp{
  } 
  public String toString(){ 
  return id+" "+name+" "+salary+" "+desig; 
- } 
+ }
  public static void main(String args[]){ 
  Emp E1=new Emp(111,"Rakesh",50000,"bsc cs"); 
  Emp E2=new Emp(112,"Suresh",25000,"msc cs"); 
